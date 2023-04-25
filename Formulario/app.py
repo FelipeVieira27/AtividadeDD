@@ -6,7 +6,7 @@ form = Flask(__name__)
 def insira():
     return render_template('form.html')
 
-@form.route('/soma', methods=['POST'])
+@form.route('/soma', methods=['GET', 'POST'])
 def soma():
     if request.method == 'POST':
         n1 = float(request.form['n1'])
