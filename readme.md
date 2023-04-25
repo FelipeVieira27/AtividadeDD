@@ -14,7 +14,7 @@ Criar uma página que ao mudar sua dimensão, altere a imagem exibida, entre uma
 <hr>
 <h3> :desktop_computer: Como executar esta atividade: </h3>
 
-Primeiramente, verifique se você possui o python pelo menos na versão 3.7, caso contrário, <a href="python.org/downloads/" target="blank"> clique aqui </a>
+Primeiramente, verifique se você possui o python pelo menos na versão 3.7, caso contrário, <a href="https://www.python.org/downloads/"> clique aqui </a>
 
 <h4> Atividade 1: Formulário </h4>
 
