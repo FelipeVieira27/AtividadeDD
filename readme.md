@@ -11,11 +11,12 @@ Criar um formulário que recolha dois números do usuário, efetue uma operaçã
 Criar uma página que ao mudar sua dimensão, altere a imagem exibida, entre uma foto do usuário feliz e outra triste
 <p> </p>
 
+<hr>
 <h3> :desktop_computer: Como executar esta atividade: </h3>
 
-Primeiramente, verifique se você possui o python pelo menos na versão 3.7, caso contrário, <a href="www.python.org/downloads/" target="blank"> clique aqui </a>
+Primeiramente, verifique se você possui o python pelo menos na versão 3.7, caso contrário, <a href="python.org/downloads/" target="blank"> clique aqui </a>
 
-Atividade 1: Formulário
+<h4> Atividade 1: Formulário </h4>
 
     # Caso você já possua o python, siga as instruções abaixo
 
@@ -35,7 +36,7 @@ Atividade 1: Formulário
 
     http://127.0.0.1:5000/
 
-Atvidade 2: Imagem responsiva
+<h4> Atvidade 2: Imagem responsiva </h4>
 
     # Clone este repositório em sua máquina
 
