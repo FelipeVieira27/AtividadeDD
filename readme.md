@@ -1,4 +1,4 @@
-<h1> :star2: Repositório referente a uma atividade da disciplina Design Digital </h1>
+<h1> :star2: Atividades da disciplina Design Digital </h1>
 <p> </p>
 
 <h3> :clock1: Data de entrega: 26/04/2023 </h3>
@@ -16,15 +16,19 @@ Criar uma página que ao mudar sua dimensão, altere a imagem exibida, entre uma
 
 Primeiramente, verifique se você possui o python pelo menos na versão 3.7, caso contrário, <a href="https://www.python.org/downloads/"> clique aqui </a>
 
-<h4> Atividade 1: Formulário </h4>
+<h4> :bookmark_tabs: Atividade 1: Formulário </h4>
 
     # Caso você já possua o python, siga as instruções abaixo
 
     # Clone este repositório na sua máquina
 
-    # Abra a pasta da atividade e clique na barra de endereço
+    # Abra a pasta clonada e clique na barra de endereço
 
-    # Digite: cmd
+    cmd
+
+    # Entre na pasta da atividade
+
+    cd Formulario
 
     # Baixe os requisitos com o comando abaixo:
 
@@ -32,11 +36,13 @@ Primeiramente, verifique se você possui o python pelo menos na versão 3.7, cas
 
     # Execute a aplicação
 
+    python app.py
+
     # Acesse esse link
 
     http://127.0.0.1:5000/
 
-<h4> Atvidade 2: Imagem responsiva </h4>
+<h4> :framed_picture: Atvidade 2: Imagem responsiva </h4>
 
     # Clone este repositório em sua máquina
 
